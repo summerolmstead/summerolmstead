@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summerolmstead&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=summerolmstead&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
