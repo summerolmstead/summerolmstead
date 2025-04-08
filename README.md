@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summerolmstead&layout=compact)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=summerolmstead)
+![GitHub Contributions](https://ghchart.rshah.org/summerolmstead)
+
 
 
