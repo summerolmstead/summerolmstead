@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summerolmstead&layout=compact)
-![Languages](https://img.shields.io/github/languages/top/summerolmstead/REPO_NAME?color=blue)
+![Languages](https://img.shields.io/github/languages/top/username=summerolmstead/REPO_NAME?color=blue)
 
